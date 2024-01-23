@@ -1,0 +1,15 @@
+C:\Users\aksel\source\repos\Hast-ProsjektOppgave-Gruppe23\Simulation\Simulation\bin\Debug\net8.0\Simulation.exe
+C:\Users\aksel\source\repos\Hast-ProsjektOppgave-Gruppe23\Simulation\Simulation\bin\Debug\net8.0\Simulation.deps.json
+C:\Users\aksel\source\repos\Hast-ProsjektOppgave-Gruppe23\Simulation\Simulation\bin\Debug\net8.0\Simulation.runtimeconfig.json
+C:\Users\aksel\source\repos\Hast-ProsjektOppgave-Gruppe23\Simulation\Simulation\bin\Debug\net8.0\Simulation.dll
+C:\Users\aksel\source\repos\Hast-ProsjektOppgave-Gruppe23\Simulation\Simulation\bin\Debug\net8.0\Simulation.pdb
+C:\Users\aksel\source\repos\Hast-ProsjektOppgave-Gruppe23\Simulation\Simulation\obj\Debug\net8.0\Simulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aksel\source\repos\Hast-ProsjektOppgave-Gruppe23\Simulation\Simulation\obj\Debug\net8.0\Simulation.AssemblyInfoInputs.cache
+C:\Users\aksel\source\repos\Hast-ProsjektOppgave-Gruppe23\Simulation\Simulation\obj\Debug\net8.0\Simulation.AssemblyInfo.cs
+C:\Users\aksel\source\repos\Hast-ProsjektOppgave-Gruppe23\Simulation\Simulation\obj\Debug\net8.0\Simulation.csproj.CoreCompileInputs.cache
+C:\Users\aksel\source\repos\Hast-ProsjektOppgave-Gruppe23\Simulation\Simulation\obj\Debug\net8.0\Simulation.sourcelink.json
+C:\Users\aksel\source\repos\Hast-ProsjektOppgave-Gruppe23\Simulation\Simulation\obj\Debug\net8.0\Simulation.dll
+C:\Users\aksel\source\repos\Hast-ProsjektOppgave-Gruppe23\Simulation\Simulation\obj\Debug\net8.0\refint\Simulation.dll
+C:\Users\aksel\source\repos\Hast-ProsjektOppgave-Gruppe23\Simulation\Simulation\obj\Debug\net8.0\Simulation.pdb
+C:\Users\aksel\source\repos\Hast-ProsjektOppgave-Gruppe23\Simulation\Simulation\obj\Debug\net8.0\Simulation.genruntimeconfig.cache
+C:\Users\aksel\source\repos\Hast-ProsjektOppgave-Gruppe23\Simulation\Simulation\obj\Debug\net8.0\ref\Simulation.dll
